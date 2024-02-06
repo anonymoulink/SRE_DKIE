@@ -1,4 +1,4 @@
-conda create --name SRE_DKIE python=3.7
+conda create --name SRE_DKIE python=3.8
 conda activate SRE_DKIE
 pip install -r requirements.txt
 
